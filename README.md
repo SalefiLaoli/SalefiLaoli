@@ -9,7 +9,7 @@
 ## Education:
 
 #### 1. [Univeritas Indraprasta PGRI](https://.unindra.ac.id/) | Informatics Engineering| Jakarta `2021-2025`
- #### 2. [SMKN 1 Dharma Caraka](https://dapo.kemdikbud.go.id/sekolah/909216FEF7D1661AFB54) | Usaha Perjalanan Wisata | Gunungsitoli `2018-2021`
+ #### 2. [SMKN 1 Dharma Caraka] | Usaha Perjalanan Wisata | Gunungsitoli `2018-2021`
 
 
 ### Languages and Tools:
