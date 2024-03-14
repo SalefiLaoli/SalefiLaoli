@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - [Salefilaoli](https://www.linkedin.com/in/salefi-laoli-269333292/) 👋
+# Hi there, I'm Salefi - [Salefilaoli](https://www.linkedin.com/in/salefi-laoli-269333292/) 👋
 ## About me:
 - I am an ambitious person. I am curious and willing to learn. I have good problem solving, time management and teamwork skills. 
 - 🌱 I’m currently learning Python, mysql, HTML
