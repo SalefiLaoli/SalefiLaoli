@@ -26,7 +26,6 @@
 ---
 ### Connect with me:
 
-
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/salefi-laoli-269333292/-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/salefilaoli_/-dark-mode-only)
