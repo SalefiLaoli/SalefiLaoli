@@ -1,10 +1,9 @@
 # Hi there, I'm Salefi - [Salefilaoli](https://www.linkedin.com/in/salefi-laoli-269333292/) 👋
 ## About me:
 - I am an ambitious person. I am curious and willing to learn. I have good problem solving, time management and teamwork skills. 
-- 🌱 I’m currently learning Python, mysql, HTML
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: laolisalefi@gmail.com
+- Currently learning Machine Learning and some programming language, such as Python, mysql, HTML. As a computer science student, I am also active in creating projects, both in analysing data and developing websites.
+- Looking to collaborate as Data Automation and Analyst
+- Ask me about anything. Reach me: laolisalefi@gmail.com
 
 ## Education:
 
@@ -25,11 +24,11 @@
 
 ---
 ### Connect with me:
-
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/salefi-laoli-269333292/-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/salefilaoli_/-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/salefi-laoli#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/salefi-laoli#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/salefilaoli_#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/salefilaoli_#gh-dark-mode-only)
 
-
-
-[webdev]: https://github.com/SalefiLaoli/SalefiLaoli/
+[webdev]: https://github.com/SalefiLaoli/SalefiLaoli
