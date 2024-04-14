@@ -1,6 +1,6 @@
 # Hi there, I'm Salefi - [Salefilaoli](https://www.linkedin.com/in/salefi-laoli-269333292/) 👋
 ## About me:
-- I am an ambitious person. I am curious and willing to learn. I have good problem solving, time management and teamwork skills. 
+- I am an ambitious person, curious and willing to learn. I have good problem solving, time management and teamwork skills. 
 - Currently learning Machine Learning and some programming language, such as Python, mysql, HTML. As a computer science student, I am also active in creating projects, both in analysing data and developing websites.
 - Looking to collaborate as Data Automation and Analyst
 - Ask me about anything. Reach me: laolisalefi@gmail.com
